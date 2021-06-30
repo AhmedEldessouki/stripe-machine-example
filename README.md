@@ -1,6 +1,6 @@
 # Stripe Machine Example
 
-An animated stripe checkout using XState and React. This uses the Stripe API and the Stripe Elements tools to create an actual payment. You can swap out the test keys for your own keys and and accept payments with this code.
+An animated stripe checkout using XState and React. This uses the Stripe API and the Stripe Elements tools to create an actual payment. You can swap out the test keys for your own keys and accept payments with this code.
 
 Backend is provided via a Netlify Function
 
